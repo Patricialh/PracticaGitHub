@@ -8,8 +8,7 @@ Algoritmo sin_titulo
 	Escribir "Introduce un número, por favor";
 	Leer num;
 	
-	numContador = 0;
-	
+	//esta linea es nueva
 	Mientras numContador <= num Hacer
 		Escribir numContador;
 		numContador = numContador + 1;
