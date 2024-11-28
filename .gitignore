@@ -1,0 +1,2 @@
+#Cuando sincronicemos nuestro repositorio, vamos a a ignorar las copias de los archivos
+*.txt
