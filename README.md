@@ -1,4 +1,4 @@
-[]Git y GitHub 🧐
+[ ]Git y GitHub 🧐
 
 ### Combinación de Git y GitHub
 Git y GitHub son herramientas muy útiles y populares en el desarrollo software.
