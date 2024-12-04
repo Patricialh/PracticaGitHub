@@ -9,7 +9,7 @@ Git es un sistema de control de versiones distribuido. Permite gestionar y reali
 __GitHub__
 GitHub es una plataforma web que utiliza Git para gestionar repositorios de código y facilitar la colaboración entre desarrolladores. Aunque GitHub no es un sistema de control de versiones por sí mismo, ofrece una serie de herramientas adicionales que mejoran la experiencia de trabajo colaborativo. 
 
-##Diferencias
+## Diferencias
 - Git es una herramienta de control de versiones, mientras que GitHub es una plataforma en línea para alojar repositorios Git y facilitar la colaboración.
 - Git se usa localmente en tu máquina para gestionar el código, mientras que GitHub es una plataforma en la web para compartir y colaborar en proyectos.
 - Git puede usarse sin necesidad de GitHub, pero GitHub depende de Git para gestionar los repositorios.
