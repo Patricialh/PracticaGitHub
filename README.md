@@ -1,7 +1,9 @@
-# PracticaGitHub
+# Git y GitHub
 
-## Desarrollo de Aplicaciones Web
-El Desarrollo de Aplicaciones Web **es aquel que permite crear herramientas a las que los usuarios pueden acceder a través de Internet.** En la web podremos obtener información o interactuar con elementos que nos permitan la comunicación entre nosotros, los usuarios y la web.
+## Creación de repositorios Git y GitHub
+Git y GitHub son una herramientas muy útiles y populares en el desarrollo software.
 
-Datos de este tipo de aplicaciones se almacenan en un servidor web o hosting en el que además de contener toda la información, luego nos la envía a nuestros dispositivos. Este factor, hace que las webs sean muy prácticas, ya que no hay que descargar nada para poder acceder a ellas.
+### Combinación de Git y GitHub
 
+Git es un sistema de control de versiones distribuido. Permite gestionar y realizar un seguimiento de los cambios en el código fuente a lo largo del tiempo, lo que facilita el trabajo colaborativo y la gestión de proyectos. 
+Esta plataforma permite : ** control de Cambios, ramificar el proyecto, tener mayor accesibilidad, deshacer cambios **
